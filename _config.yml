@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Qitanda's Home
-subtitle: ''
-description: ''
+title: Qitanda の Home
+subtitle: '1'
+description: 'ZJ的个人博客'
 keywords:
 author: qitanda
 language: zh-CN
 timezone: ''
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -107,3 +108,4 @@ deploy:
   type: git
   repo: https://github.com/qitanda/qitanda.github.io.git
   branch: master
+
